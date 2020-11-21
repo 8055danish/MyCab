@@ -1,0 +1,36 @@
+.container-fluid {
+    background-image: url("image.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.text-color{
+    color: white;
+}
+.bg-white {
+    background-color: white;
+    content: "";
+    clear: both;
+    display: block;
+}
+.btn {
+   background-color: #cddc39;
+   width:100%;
+}
+.form-div{
+    border-radius: 10px;
+}
+.input-bg {
+    background-color: #e9ecef;
+}
+.form-control {
+    -webkit-appearance: none;
+}
+#cl{
+    border-radius: 10px;
+    background-color: #cddc39;
+}
+input[type=number] {
+    -moz-appearance: textfield;
+    -webkit-appearance: none;
+}
+
